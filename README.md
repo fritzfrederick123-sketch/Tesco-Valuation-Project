@@ -8,30 +8,30 @@ Prepared as an investment case study to demonstrate financial modelling and [pre
 ## Key Screenshots
 
 ### Investment Thesis
-![Investment Thesis](investment-thesis.png)
+![Investment Thesis](Screenshots/investment-thesis.png)
 
 ### Football Field Valuation
-![Football Field](football-field.png)
+![Football Field](Screenshots/football-field.png)
 
 ### [DCF Summary](DCF.xlsx)
-![DCF](dcf.png)
+![DCF](Screenshots/dcf.png)
 
 ### [Comparable Analysis](Comps.xlsx)
-![Comps](comps.png)
+![Comps](Screenshots/comps.png)
 
 ### Profitability & Efficiency Ratios(Ratios.xlsx)
 **Profitability**
-![Profitability](Profitability.png)
+![Profitability](Screenshots/Profitability.png)
 
 **Efficiency**
-![Efficiency](Efficiency.png)
+![Efficiency](Screenshots/Efficiency.png)
 
 
 ### Leverage & Liquidity(Ratios.xlsx)
-![Leverage](leverage.png)
+![Leverage](Screenshots/leverage.png)
 
 **Efficiency**
-![Liquidity](liquidity.png)
+![Liquidity](Screenshots/liquidity.png)
 
 
 ---
