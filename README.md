@@ -28,10 +28,10 @@ Prepared as an investment case study to demonstrate financial modelling and pres
 
 
 ### Leverage & Liquidity
-![Leverage](Leverage.png)
+![Leverage](leverage.png)
 
 **Efficiency**
-![Liquidity](Liquidity.png)
+![Liquidity](liquidity.png)
 
 
 ---
