@@ -1,7 +1,7 @@
 # Tesco PLC Valuation Project
 
-Comprehensive valuation of Tesco PLC including DCF, peer comparables, and ratio analysis.  
-Prepared as an investment case study to demonstrate financial modelling and presentation skills.
+Comprehensive valuation of Tesco PLC including [DCF](DCF.xlsx), [peer comparables](Comps.xlsx), and [ratio analysis](Ratios.xlsx).  
+Prepared as an investment case study to demonstrate financial modelling and [presentation and portfolio skills](Deliverable.pptx).
 
 ---
 
@@ -13,13 +13,13 @@ Prepared as an investment case study to demonstrate financial modelling and pres
 ### Football Field Valuation
 ![Football Field](football-field.png)
 
-### DCF Summary
+### [DCF Summary](DCF.xlsx)
 ![DCF](dcf.png)
 
-### Comparable Analysis
+### [Comparable Analysis](Comps.xlsx)
 ![Comps](comps.png)
 
-### Profitability & Efficiency Ratios
+### Profitability & Efficiency Ratios(Ratios.xlsx)
 **Profitability**
 ![Profitability](Profitability.png)
 
@@ -27,7 +27,7 @@ Prepared as an investment case study to demonstrate financial modelling and pres
 ![Efficiency](Efficiency.png)
 
 
-### Leverage & Liquidity
+### Leverage & Liquidity(Ratios.xlsx)
 ![Leverage](leverage.png)
 
 **Efficiency**
@@ -45,7 +45,7 @@ All models and presentation slides are available for download:
 - [Comps Analysis](Comps.xlsx) – Comparable companies multiples
 - [Ratio Analysis](Ratios.xlsx) – Profitability, liquidity, leverage, efficiency
 
-- [ Slides](Deliverable.pptx)
+- [Slides](Deliverable.pptx)
 
 ---
 
