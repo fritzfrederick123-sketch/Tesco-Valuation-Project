@@ -1,25 +1,25 @@
 # Tesco PLC Valuation Project
 
-Comprehensive valuation of Tesco PLC including [DCF](DCF.xlsx), [peer comparables](Comps.xlsx), and [ratio analysis](Ratios.xlsx).  
-Prepared as an investment case study to demonstrate financial modelling and [presentation and portfolio skills](Deliverable.pptx).
+Comprehensive valuation of Tesco PLC including [DCF](FinancialModels/DCF.xlsx), [peer comparables](FinancialModels/Comps.xlsx), and [ratio analysis](FinancialModels/Ratios.xlsx).  
+Prepared as an investment case study to demonstrate financial modelling and [presentation and portfolio skills](ProfessionalDeliverable/Deliverable.pptx).
 
 ---
 
 ## Key Screenshots
 
-### Investment Thesis
+### [Investment Thesis](ProfessionalDeliverable/Deliverable.pptx)
 ![Investment Thesis](Screenshots/investment-thesis.png)
 
-### Football Field Valuation
+### [Football Field Valuation](ProfessionalDeliverable/Deliverable.pptx)
 ![Football Field](Screenshots/football-field.png)
 
-### [DCF Summary](DCF.xlsx)
+### [DCF Summary](FinancialModels/DCF.xlsx)
 ![DCF](Screenshots/dcf.png)
 
-### [Comparable Analysis](Comps.xlsx)
+### [Comparable Analysis](FinancialModels/Comps.xlsx)
 ![Comps](Screenshots/comps.png)
 
-### Profitability & Efficiency Ratios(Ratios.xlsx)
+### Profitability & Efficiency Ratios(FinancialModels/Ratios.xlsx)
 **Profitability**
 ![Profitability](Screenshots/Profitability.png)
 
@@ -27,7 +27,7 @@ Prepared as an investment case study to demonstrate financial modelling and [pre
 ![Efficiency](Screenshots/Efficiency.png)
 
 
-### Leverage & Liquidity(Ratios.xlsx)
+### Leverage & Liquidity(FinancialModels/Ratios.xlsx)
 ![Leverage](Screenshots/leverage.png)
 
 **Efficiency**
@@ -41,11 +41,11 @@ Prepared as an investment case study to demonstrate financial modelling and [pre
 All models and presentation slides are available for download:
 
 ### Excel Models
-- [DCF Model](DCF.xlsx) – Discounted Cash Flow valuation
-- [Comps Analysis](Comps.xlsx) – Comparable companies multiples
-- [Ratio Analysis](Ratios.xlsx) – Profitability, liquidity, leverage, efficiency
+- [DCF Model](FinancialModels/DCF.xlsx) – Discounted Cash Flow valuation
+- [Comps Analysis](FinancialModels/Comps.xlsx) – Comparable companies multiples
+- [Ratio Analysis](FinancialModels/Ratios.xlsx) – Profitability, liquidity, leverage, efficiency
 
-- [Slides](Deliverable.pptx)
+- [Slides](ProfessionalDeliverable/Deliverable.pptx)
 
 ---
 
