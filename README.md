@@ -5,7 +5,7 @@ Prepared as an investment case study to demonstrate financial modelling and [pre
 
 ---
 
-## Key Screenshots
+## Key Highlights
 
 ### [Investment Thesis](ProfessionalDeliverable/Deliverable.pptx)
 ![Investment Thesis](Screenshots/investment-thesis.png)
@@ -30,7 +30,7 @@ Prepared as an investment case study to demonstrate financial modelling and [pre
 ### [Leverage & Liquidity](FinancialModels/Ratios.xlsx)
 ![Leverage](Screenshots/leverage.png)
 
-**Efficiency**
+
 ![Liquidity](Screenshots/liquidity.png)
 
 
