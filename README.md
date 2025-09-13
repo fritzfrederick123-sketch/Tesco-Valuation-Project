@@ -19,7 +19,7 @@ Prepared as an investment case study to demonstrate financial modelling and [pre
 ### [Comparable Analysis](FinancialModels/Comps.xlsx)
 ![Comps](Screenshots/comps.png)
 
-### Profitability & Efficiency Ratios(FinancialModels/Ratios.xlsx)
+### [Profitability & Efficiency Ratios](FinancialModels/Ratios.xlsx)
 **Profitability**
 ![Profitability](Screenshots/Profitability.png)
 
