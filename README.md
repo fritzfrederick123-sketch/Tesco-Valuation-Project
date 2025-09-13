@@ -27,7 +27,7 @@ Prepared as an investment case study to demonstrate financial modelling and [pre
 ![Efficiency](Screenshots/Efficiency.png)
 
 
-### Leverage & Liquidity(FinancialModels/Ratios.xlsx)
+### [Leverage & Liquidity](FinancialModels/Ratios.xlsx)
 ![Leverage](Screenshots/leverage.png)
 
 **Efficiency**
